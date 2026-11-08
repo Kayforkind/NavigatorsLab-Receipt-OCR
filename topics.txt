@@ -1,0 +1,1 @@
+ocr ocr tesseract csv expense-tracking navigatorslab-tools browser client-side offline-first privacy-tools no-upload mit-license javascript
